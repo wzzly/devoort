@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PEP\n"
+"POT-Creation-Date: 2021-04-13 12:41+0200\n"
+"PO-Revision-Date: 2021-08-09 15:58+0200\n"
+"Last-Translator: Davey | WP Fortune <davey@wpfortune.com>\n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_n;_e;_x;_nx\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib/class-theme.php:200
+msgid "Headers"
+msgstr "Headers"
+
+#: lib/class-theme.php:201 lib/class-theme.php:202 lib/class-theme.php:203
+msgid "New header"
+msgstr "Nieuwe header"
+
+#: lib/class-theme.php:227
+msgid "Bankruptcy"
+msgstr "Faillissementen"
+
+#: lib/class-theme.php:228 lib/class-theme.php:229 lib/class-theme.php:230
+msgid "New"
+msgstr "Nieuw"
+
+#: lib/class-theme.php:240
+msgid "bankruptcy"
+msgstr ""
+
+#: lib/class-theme.php:253
+msgid "Specialists"
+msgstr "Specialisten"
+
+#: lib/class-theme.php:263
+msgid "advocaten-mediators"
+msgstr "advocaten-mediators"
+
+#: lib/class-theme.php:279 lib/class-theme.php:691
+msgid "De Voort Advocaten | Mediators"
+msgstr "De Voort Advocaten | Mediators"
+
+#: lib/class-theme.php:280 lib/class-theme.php:692
+msgid "Excelling together"
+msgstr "Samen uitblinken"
+
+#: lib/class-theme.php:314 lib/class-theme.php:628
+msgid "More information"
+msgstr "Meer informatie"
+
+#: lib/class-theme.php:332 lib/class-theme.php:703 views/advanced-search.php:51
+msgid "Expertises"
+msgstr "Expertises"
+
+#: lib/class-theme.php:332 lib/class-theme.php:703
+msgid "All specialists"
+msgstr "Alle specialisten"
+
+#: lib/class-theme.php:366
+msgid "Find a specialist, expertise, news item, etc."
+msgstr "Zoek een specialist, expertise, nieuwsbericht, etc."
+
+#: lib/class-theme.php:394
+msgid "Published"
+msgstr "Gepubliceerd"
+
+#: lib/class-theme.php:399
+msgid "Author(s):"
+msgstr "Geschreven door:"
+
+#: lib/class-theme.php:669
+msgid "Read more"
+msgstr "Lees meer"
+
+#: lib/class-theme.php:669
+#, php-format
+msgid "about %s"
+msgstr "over %s"
+
+#: lib/class-theme.php:684
+msgid "Header"
+msgstr "Header"
+
+#: lib/class-theme.php:720
+msgid "Share this article via:"
+msgstr "Deel dit artikel via:"
+
+#: lib/class-theme.php:868
+msgid "Excelling together."
+msgstr "Samen uitblinken."
+
+#: lib/class-theme.php:891 lib/class-theme.php:911 lib/class-theme.php:1428
+#: lib/class-theme.php:1685 lib/class-theme.php:1753
+#: views/advanced-search.php:65
+msgid "Search"
+msgstr "Zoeken"
+
+#: lib/class-theme.php:939
+msgid "Filter bankruptcy by curator."
+msgstr "Sorteer faillissementen op curator."
+
+#: lib/class-theme.php:967
+msgid "Or search for a keyword"
+msgstr "Of zoek op een trefwoord"
+
+#: lib/class-theme.php:967
+msgid "Result should contain the following"
+msgstr "Resultaat moet het volgende bevatten..."
+
+#: lib/class-theme.php:976
+msgid "Table with overview Bankruptcy"
+msgstr "Tabel met overzicht faillissementen"
+
+#: lib/class-theme.php:978 lib/class-theme.php:1006
+msgid "Number"
+msgstr "Nummer"
+
+#: lib/class-theme.php:979 lib/class-theme.php:1007
+msgid "Company Name"
+msgstr "Naam failliet"
+
+#: lib/class-theme.php:980 lib/class-theme.php:1008
+msgid "Curator"
+msgstr "Curator"
+
+#: lib/class-theme.php:1228
+msgid "Use the search field or limit your search via the filters."
+msgstr "Gebruik het zoekveld of beperk je zoekopdracht via de filters."
+
+#: lib/class-theme.php:1304
+msgid "Articles"
+msgstr "Artikelen"
+
+#: lib/class-theme.php:1337
+msgid "Page Header"
+msgstr "Pagina header"
+
+#: lib/class-theme.php:1338
+msgid "Creates default page header"
+msgstr "Maakt standaard pagina header"
+
+#: lib/class-theme.php:1426
+msgid "Search Results for:"
+msgstr "Zoekresultaten voor:"
+
+#: lib/class-theme.php:1494 views/user.php:15
+#, php-format
+msgid "Follow us on %s"
+msgstr "Volg ons op %s"
+
+#: lib/class-theme.php:1521
+msgid "Case number:"
+msgstr "Faillissementsnummer:"
+
+#: lib/class-theme.php:1522
+msgid "Company name:"
+msgstr "Naam failliet:"
+
+#: lib/class-theme.php:1524
+msgid "Address:"
+msgstr "Adres:"
+
+#: lib/class-theme.php:1527
+msgid "City:"
+msgstr "Plaats:"
+
+#: lib/class-theme.php:1539
+msgid "Curator:"
+msgstr "Curator:"
+
+#: lib/class-theme.php:1547 lib/class-theme.php:1552
+msgid "Public reports:"
+msgstr "Openbare verslagen:"
+
+#: lib/class-theme.php:1547
+msgid "View the Central Insolvency Register at rechtspraak.nl"
+msgstr "Bekijk het Centraal Insolventieregister op rechtspraak.nl"
+
+#: lib/class-theme.php:1564
+msgid "Download files:"
+msgstr "Download bestanden:"
+
+#: lib/class-theme.php:1566
+msgid "Bankruptcy judgment"
+msgstr "Vonnis faillissement"
+
+#: lib/class-theme.php:1582
+#, php-format
+msgid "Statement date: %s"
+msgstr "Datum uitspraak: %s"
+
+#: lib/class-theme.php:1589
+msgid " Bankruptcy "
+msgstr " Faillissement "
+
+#: lib/class-theme.php:1605
+msgid "Share this page via:"
+msgstr "Deel deze pagina via:"
+
+#: lib/class-theme.php:1639 lib/class-theme.php:1640
+msgid "I'm looking for..."
+msgstr "Ik ben op zoek naar..."
+
+#: lib/class-theme.php:1643 lib/class-theme.php:1646
+msgid "Expertise"
+msgstr "Expertise"
+
+#: lib/class-theme.php:1647 lib/class-theme.php:1668
+msgid "Select the desired filter items"
+msgstr "Selecteer de gewenste filteritems"
+
+#: lib/class-theme.php:1650 lib/class-theme.php:1671
+msgid "Start typing..."
+msgstr "Begin met typen..."
+
+#: lib/class-theme.php:1664 lib/class-theme.php:1667
+msgid "Author"
+msgstr "Auteur"
+
+#: lib/class-theme.php:1750
+msgid "Processing..."
+msgstr "Laden..."
+
+#: lib/class-theme.php:1822
+msgid "No results found"
+msgstr "Geen resultaten gevonden"
+
+#: views/advanced-search.php:5
+msgid "Search by keyword"
+msgstr "Zoek op trefwoord"
+
+#: views/advanced-search.php:6
+msgid "Search..."
+msgstr "Zoeken..."
+
+#: views/advanced-search.php:12
+msgid "Search in..."
+msgstr "Zoeken in..."
+
+#: views/advanced-search.php:29
+msgid "Category"
+msgstr "Categorie"
+
+#: views/author.php:28
+msgid "More articles"
+msgstr "Andere artikelen"
+
+#: views/author.php:28
+#, php-format
+msgid "from %s"
+msgstr "vanaf %s"
+
+#: views/user.php:36
+msgid "Text continues below the photo"
+msgstr "Tekst gaat verder onder de foto"
+
+#~ msgid "Case details"
+#~ msgstr "Faillissement detail"
+
+#~ msgid "Case number"
+#~ msgstr "Faillissements nummer"
+
+#~ msgid "Company short Name"
+#~ msgstr "Zoeknaam"
+
+#~ msgid "Address"
+#~ msgstr "Adres"
+
+#~ msgid "City"
+#~ msgstr "Plaats"
+
+#~ msgid "Handled by"
+#~ msgstr "Behandeld door"
+
+#~ msgid "Statement Date"
+#~ msgstr "Datum uitspraak"
+
+#~ msgid "Users"
+#~ msgstr "Gebruikers"
+
+#~ msgid "Samen uitblinken"
+#~ msgstr "Samen uitblinken"
+
+#~ msgid "My account"
+#~ msgstr "Mijn account"
+
+#~ msgid "Login"
+#~ msgstr "Inloggen"
+
+#~ msgid "Wishlist"
+#~ msgstr "Wensenlijst"
+
+#~ msgid "Cart"
+#~ msgstr "Winkelmandje"
+
+#~ msgid "Products"
+#~ msgstr "Producten"
+
+#~ msgid "Paymentmethod"
+#~ msgstr "Betaalmethoden"
+
+#, php-format
+#~ msgid "Pay with %s"
+#~ msgstr "Betaal met %s"
+
+#~ msgid "Or choose..."
+#~ msgstr "Of kies voor..."
+
+#~ msgid "Complete order"
+#~ msgstr "Bestelling afronden"
+
+#~ msgid "Current page: Cart"
+#~ msgstr "Huidige pagina: Winkelmandje"
+
+#~ msgid "Current page: Checkout"
+#~ msgstr "Huidige pagina: Afrekenen"
+
+#~ msgid "Current page: Confirmation"
+#~ msgstr "Huidige pagina: Bedankt"
+
+#~ msgid "Pay securely..."
+#~ msgstr "Betaal veilig met..."
+
+#~ msgid "Need help?"
+#~ msgstr "Hulp nodig?"
+
+#~ msgid "Delivery before <strong>December 5th</strong>"
+#~ msgstr "Voor <strong>Sinterklaas</strong> in huis"
+
+#~ msgid "Delivery within <strong>5 working days</strong>"
+#~ msgstr "Levering binnen <strong>5 werkdagen</strong>"
+
+#~ msgid "Delivery within <strong>3 working days</strong>"
+#~ msgstr "Levering binnen <strong>3 werkdagen</strong>"
+
+#~ msgid "<strong>Free</strong> return"
+#~ msgstr "<strong>Gratis</strong> retourneren"
+
+#~ msgid "Delivery time"
+#~ msgstr "Levertijd"
+
+#~ msgid "We do our best to ship your order as soon as possible. Our carrier usually delivers your order within 2 working days. Unfortunately it may happen that due to circumstances your order will arrive at your home a little later."
+#~ msgstr "We doen ons best om je bestelling zo snel mogelijk te verzenden. Onze vervoerder bezorgt daarna je bestelling meestal binnen 2 werkdagen. Helaas kan het gebeuren dat je bestelling door omstandigheden toch wat later bij je thuis is."
+
+#~ msgid "Delivery options"
+#~ msgstr "Bezorgopties"
+
+#~ msgid "You can pick up your order or have it shipped. You can see which shipping options are available during checkout."
+#~ msgstr "Je kan je bestelling ophalen of laten verzenden. Welke verzendopties beschikbaar zijn zie je tijdens het afrekenen."
+
+#, php-format
+#~ msgid "Free shipping from %s"
+#~ msgstr "Gratis verzending vanaf %s"
+
+#~ msgid "Characteristics"
+#~ msgstr "Kenmerken"
+
+#, php-format
+#~ msgid "From: %1$s"
+#~ msgstr "Vanaf %1$s"
+
+#~ msgid "You must be logged in to checkout."
+#~ msgstr "Je moet ingelogd zijn om af te rekenen."
+
+#~ msgid "Customer service"
+#~ msgstr "Klantenservice"
