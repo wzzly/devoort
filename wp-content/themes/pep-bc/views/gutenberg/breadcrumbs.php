@@ -1,0 +1,1 @@
+<?php echo yoast_breadcrumb('<div id="breadcrumbs" class="breadcrumb breadcrumbs">','</div>');?>
