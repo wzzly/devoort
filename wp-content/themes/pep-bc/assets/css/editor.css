@@ -1,0 +1,5 @@
+body .editor-styles-wrapper .wp-block-button .wp-block-button__link {border-radius:0;}
+body .editor-styles-wrapper .wp-block-button.is-style-rounded .wp-block-button__link {border-radius:6px;}
+body .editor-styles-wrapper .wp-block-button.is-style-outline .wp-block-button__link {background:transparent !important;}
+
+body .editor-styles-wrapper .is-style-uppercase {text-transform:uppercase;}
