@@ -1,0 +1,2270 @@
+# <!=Copyright (C) 2019 StudioPress
+# This file is distributed under the GPL-2.0-or-later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: PEP Theme\n"
+"Report-Msgid-Bugs-To: StudioPress <translations@studiopress.com>\n"
+"POT-Creation-Date: 2020-07-20 12:43+0200\n"
+"PO-Revision-Date: 2020-07-20 12:49+0200\n"
+"Last-Translator: Davey | WP Fortune <davey@wpfortune.com>\n"
+"Language-Team: PEP\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/js/blocks.build.js:34
+msgctxt "content placeholder"
+msgid "Lorem ipsum dolor mit…"
+msgstr ""
+
+#: assets/js/blocks.build.js:70
+msgid "Breadcrumbs"
+msgstr "Kruimelpad"
+
+#: assets/js/blocks.build.js:71 assets/js/blocks.build.js:100
+msgid "Shows Yoast breadcrumbs on frontend."
+msgstr "Toon Yoast kruimelpad."
+
+#: assets/js/blocks.build.js:124 lib/class-clients.php:28
+msgid "Clients"
+msgstr "Opdrachtgevers"
+
+#: assets/js/blocks.build.js:125
+msgid "Shows carousel with client logos on frontend."
+msgstr "Toon carousel met opdrachtgever logo's."
+
+#: assets/js/blocks.build.js:418
+msgid "WooCommerce tag slider"
+msgstr ""
+
+#: assets/js/blocks.build.js:419 assets/js/blocks.build.js:531
+msgid "Shows carousel with WooCommerce tags on frontend."
+msgstr ""
+
+#: assets/js/blocks.build.js:554
+msgid "Stats counter"
+msgstr ""
+
+#: assets/js/blocks.build.js:555
+msgid "Showcase your stats."
+msgstr ""
+
+#: assets/js/blocks.build.js:845
+msgid "Image & Heading"
+msgstr "Afbeelding & Kop"
+
+#: assets/js/blocks.build.js:846
+msgid "Show image + heading with possible link"
+msgstr ""
+
+#: assets/js/blocks.build.js:955
+msgid "Contact info"
+msgstr "Contact info"
+
+#: assets/js/blocks.build.js:956
+msgid "Rich snippet contact info (schema.org)"
+msgstr ""
+
+#: assets/js/blocks.build.js:1639 lib/customizer/class-company.php:288
+msgid "Enter an URL or type 1 if no URL is available"
+msgstr "Vul een URL in of typ een \"1\" wanneer er geen URL beschikbaar is"
+
+#: assets/js/blocks.build.js:1789
+msgid "Slick slider"
+msgstr ""
+
+#: assets/js/blocks.build.js:1790
+msgid "Create a slider from inner elements."
+msgstr ""
+
+#: config/editor-font-sizes.php:15
+msgid "Small"
+msgstr "Klein"
+
+#: config/editor-font-sizes.php:20
+msgid "Normal"
+msgstr "Normaal"
+
+#: config/editor-font-sizes.php:25
+msgid "Large"
+msgstr "Groot"
+
+#: config/editor-font-sizes.php:30
+msgid "Larger"
+msgstr "Extra groot"
+
+#: config/menus.php:14
+msgid "Primary Menu position"
+msgstr "Primary Menu positie"
+
+#: config/menus.php:15
+msgid "Footer Menu"
+msgstr "Footer menu"
+
+#: config/menus.php:16
+msgid "Top Menu"
+msgstr "Top menu"
+
+#: config/onboarding.php:17 config/onboarding.php:21
+msgid "NECESSARY"
+msgstr ""
+
+#: config/onboarding.php:17
+msgid "Customize editor control (when WC is available)"
+msgstr ""
+
+#: config/onboarding.php:21
+msgid "Genesis Translations"
+msgstr ""
+
+#: config/onboarding.php:25 config/onboarding.php:29 config/onboarding.php:33
+#: config/onboarding.php:41
+msgid "ADMIN"
+msgstr ""
+
+#: config/onboarding.php:25
+msgid "Atomic Blocks"
+msgstr ""
+
+#: config/onboarding.php:29
+msgid "Disable Gutenberg blocks"
+msgstr ""
+
+#: config/onboarding.php:33
+msgid "Duplicate Post"
+msgstr ""
+
+#: config/onboarding.php:41
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: config/onboarding.php:45 config/onboarding.php:49
+msgid "ACCESSIBILITY"
+msgstr ""
+
+#: config/onboarding.php:45
+msgid "WCAG 2.0 for Gravity Forms"
+msgstr ""
+
+#: config/onboarding.php:49
+msgid "Genesis Accessible"
+msgstr ""
+
+#: config/onboarding.php:53 config/onboarding.php:57
+msgid "PRIVACY"
+msgstr ""
+
+#: config/onboarding.php:53
+msgid "Cookie Notice for GDPR"
+msgstr ""
+
+#: config/onboarding.php:57
+msgid "Cookiebot.com (alternative)"
+msgstr ""
+
+#: config/onboarding.php:61 config/onboarding.php:65 config/onboarding.php:69
+#: config/onboarding.php:73
+msgid "SECURITY"
+msgstr ""
+
+#: config/onboarding.php:61
+msgid "Wordfence Security"
+msgstr ""
+
+#: config/onboarding.php:65
+msgid "Sucuri"
+msgstr ""
+
+#: config/onboarding.php:69
+msgid "InfiniteWP"
+msgstr ""
+
+#: config/onboarding.php:73
+msgid "Really Simple SSL"
+msgstr ""
+
+#: config/onboarding.php:77 config/onboarding.php:81 config/onboarding.php:85
+msgid "STATISTICS / SEO"
+msgstr ""
+
+#: config/onboarding.php:77
+msgid "Yoast SEO"
+msgstr ""
+
+#: config/onboarding.php:81
+msgid "Google Analytics Dashboard for WP (GADWP)"
+msgstr ""
+
+#: config/onboarding.php:85
+msgid "Redirection"
+msgstr ""
+
+#: config/onboarding.php:89 config/onboarding.php:93
+msgid "FRONTEND"
+msgstr ""
+
+#: config/onboarding.php:89
+msgid "Easy Fancybox"
+msgstr "Easy Fancybox"
+
+#: config/onboarding.php:93
+msgid "Category Images"
+msgstr "Categorie afbeeldingen"
+
+#: lib/class-activity.php:36 lib/class-activity.php:322
+msgid "Activities"
+msgstr "Activiteiten"
+
+#: lib/class-activity.php:37
+msgid "Activity"
+msgstr "Activiteit"
+
+#: lib/class-activity.php:38
+msgid "Add new activity"
+msgstr "Nieuwe activiteit toevoegen"
+
+#: lib/class-activity.php:39 lib/class-clients.php:31
+msgid "Add new"
+msgstr "Nieuwe toevoegen"
+
+#: lib/class-activity.php:40
+msgid "New activity"
+msgstr "Nieuwe activiteit"
+
+#: lib/class-activity.php:41
+msgid "Edit activity"
+msgstr "Bewerk activiteit"
+
+#: lib/class-activity.php:66 lib/class-activity.php:329
+#: lib/class-template.php:671
+msgid "Agenda & Events"
+msgstr "Agenda & Events"
+
+#: lib/class-activity.php:82
+#, php-format
+msgid "Activiteiten met trefwoord: %s"
+msgstr "Activiteiten met trefwoord: %s"
+
+#: lib/class-activity.php:146
+msgctxt "taxonomy general name"
+msgid "Filters"
+msgstr "Filters"
+
+#: lib/class-activity.php:147
+msgctxt "taxonomy singular name"
+msgid "Filter"
+msgstr "Filter"
+
+#: lib/class-activity.php:148
+msgid "Search Filters"
+msgstr "Zoek filters"
+
+#: lib/class-activity.php:149
+msgid "All Filters"
+msgstr "Alle filters"
+
+#: lib/class-activity.php:150
+msgid "Parent Filter"
+msgstr "Hoofd filter"
+
+#: lib/class-activity.php:151
+msgid "Parent Filter:"
+msgstr "Hoofd filter:"
+
+#: lib/class-activity.php:152
+msgid "Edit Filter"
+msgstr "Bewerk filter"
+
+#: lib/class-activity.php:153
+msgid "Update Filter"
+msgstr "Wijzig filter"
+
+#: lib/class-activity.php:154
+msgid "Kies je filters"
+msgstr "Kies je filters"
+
+#: lib/class-activity.php:155
+msgid "New Filter Name"
+msgstr "Nieuwe filter naam"
+
+#: lib/class-activity.php:156
+msgid "Filters"
+msgstr "Filters"
+
+#: lib/class-activity.php:343
+msgid "Enter a short text as intro on archive page"
+msgstr ""
+
+#: lib/class-clients.php:29
+msgid "Client"
+msgstr "Opdrachtgever"
+
+#: lib/class-clients.php:30
+msgid "Add new client"
+msgstr "Nieuwe opdrachtgever"
+
+#: lib/class-clients.php:32
+msgid "New client"
+msgstr "Nieuwe opdrachtgever"
+
+#: lib/class-clients.php:33
+msgid "Edit client"
+msgstr "Bewerk opdrachtgever"
+
+#: lib/class-clients.php:53
+msgctxt "taxonomy general name"
+msgid "Types"
+msgstr ""
+
+#: lib/class-clients.php:54
+msgctxt "taxonomy singular name"
+msgid "Type"
+msgstr ""
+
+#: lib/class-clients.php:55
+msgid "Search Client Types"
+msgstr "Zoek opdrachtgever type"
+
+#: lib/class-clients.php:56
+msgid "All Types"
+msgstr "Alle Typen"
+
+#: lib/class-clients.php:57
+msgid "Parent Type"
+msgstr "Hoofdtype"
+
+#: lib/class-clients.php:58
+msgid "Parent Type:"
+msgstr "Hoofdtype:"
+
+#: lib/class-clients.php:59
+msgid "Edit Type"
+msgstr "Bewerk type"
+
+#: lib/class-clients.php:60
+msgid "Update Type"
+msgstr "Wijzig type"
+
+#: lib/class-clients.php:61
+msgid "Add new type"
+msgstr "Type toevoegen"
+
+#: lib/class-clients.php:62
+msgid "New Type Name"
+msgstr "Nieuwe type naam"
+
+#: lib/class-clients.php:63
+msgid "Types"
+msgstr "Typen"
+
+#: lib/class-customizer.php:39
+msgid ""
+"Change the color of post info links, hover color of linked titles, hover "
+"color of menu items, and more."
+msgstr "Wijzig kleur van links, titles, menu-items en meer."
+
+#: lib/class-customizer.php:40 lib/customizer/class-colors.php:180
+msgid "Link Color"
+msgstr "Link kleur"
+
+#: lib/class-customizer.php:60
+msgid ""
+"Change the default hover color for button links, the menu button, and submit "
+"buttons. This setting does not apply to buttons created with the Buttons "
+"block."
+msgstr ""
+
+#: lib/class-customizer.php:61
+msgid "Accent Color"
+msgstr "Accentkleur"
+
+#: lib/class-customizer.php:81
+msgid "Change the color of slider controls."
+msgstr "De maximale breedte van het logo in pixels."
+
+#: lib/class-customizer.php:82
+msgid "Slider controls colors"
+msgstr "Slider control kleur"
+
+#: lib/class-customizer.php:104
+msgid "Change the color of buttons."
+msgstr ""
+
+#: lib/class-customizer.php:105
+msgid "Button Color"
+msgstr "Knop kleur"
+
+#: lib/class-customizer.php:125
+msgid "Change the default hover color for buttons."
+msgstr ""
+
+#: lib/class-customizer.php:126
+msgid "Button Accent Color"
+msgstr "Knop accent kleur"
+
+#: lib/class-customizer.php:147
+msgid "Change the default background-color for footer widgets area."
+msgstr ""
+
+#: lib/class-customizer.php:148
+msgid "Footer widgets background-color"
+msgstr "Footer widgets achtergrondkleur"
+
+#: lib/class-customizer.php:168
+msgid "Change the accent text color for footer widgets area."
+msgstr ""
+
+#: lib/class-customizer.php:169
+msgid "Footer widgets accent color"
+msgstr "Footer widgets accent kleur"
+
+#: lib/class-customizer.php:189
+msgid "Change the background color for footer area."
+msgstr ""
+
+#: lib/class-customizer.php:190
+msgid "Footer background-color"
+msgstr "Footer achtergrondkleur"
+
+#: lib/class-customizer.php:210
+msgid "Change the accent text color for footer area."
+msgstr ""
+
+#: lib/class-customizer.php:211
+msgid "Footer accent color"
+msgstr "Footer accent kleur"
+
+#: lib/class-customizer.php:230
+msgid "Logo Width"
+msgstr "Breedte logo"
+
+#: lib/class-customizer.php:231
+msgid "The maximum width of the logo in pixels."
+msgstr "De maximale breedte van het logo in pixels."
+
+#: lib/class-customizer.php:259
+msgid "Show last footer widgets area below"
+msgstr ""
+
+#: lib/class-customizer.php:260
+msgid ""
+"Show the last footer widget area 100% width below other footer widgets "
+"(screen-width > 960px)."
+msgstr ""
+
+#: lib/class-customizer.php:280
+msgid "Footer widgets default styling"
+msgstr "Footer widget standaard stijling"
+
+#: lib/class-customizer.php:281
+msgid "Use default PEP styling for footer widget area"
+msgstr "Gebruik standaard PEP stijling voor footer"
+
+#: lib/class-shortcodes.php:93 lib/customizer/class-company.php:146
+#: lib/customizer/class-company.php:151 lib/gutenberg/class-blocks.php:117
+msgid "Monday"
+msgstr "Maandag"
+
+#: lib/class-shortcodes.php:94 lib/customizer/class-company.php:156
+#: lib/customizer/class-company.php:161 lib/gutenberg/class-blocks.php:118
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+#: lib/class-shortcodes.php:95 lib/customizer/class-company.php:166
+#: lib/customizer/class-company.php:171 lib/gutenberg/class-blocks.php:119
+msgid "Wednesday"
+msgstr "Woensdag"
+
+#: lib/class-shortcodes.php:96 lib/customizer/class-company.php:176
+#: lib/customizer/class-company.php:181 lib/gutenberg/class-blocks.php:120
+msgid "Thursday"
+msgstr "Donderdag"
+
+#: lib/class-shortcodes.php:97 lib/customizer/class-company.php:186
+#: lib/customizer/class-company.php:191 lib/gutenberg/class-blocks.php:121
+msgid "Friday"
+msgstr "Vrijdag"
+
+#: lib/class-shortcodes.php:98 lib/customizer/class-company.php:196
+#: lib/customizer/class-company.php:201 lib/gutenberg/class-blocks.php:122
+msgid "Saturday"
+msgstr "Zaterdag"
+
+#: lib/class-shortcodes.php:99 lib/customizer/class-company.php:206
+#: lib/customizer/class-company.php:211 lib/gutenberg/class-blocks.php:123
+msgid "Sunday"
+msgstr "Zondag"
+
+#: lib/class-shortcodes.php:103 lib/gutenberg/class-blocks.php:127
+msgid "Mon"
+msgstr "Ma"
+
+#: lib/class-shortcodes.php:104 lib/gutenberg/class-blocks.php:128
+msgid "Tue"
+msgstr "Di"
+
+#: lib/class-shortcodes.php:105 lib/gutenberg/class-blocks.php:129
+msgid "Wed"
+msgstr "Wo"
+
+#: lib/class-shortcodes.php:106 lib/gutenberg/class-blocks.php:130
+msgid "Thu"
+msgstr "Do"
+
+#: lib/class-shortcodes.php:107 lib/gutenberg/class-blocks.php:131
+msgid "Fri"
+msgstr "Vr"
+
+#: lib/class-shortcodes.php:108 lib/gutenberg/class-blocks.php:132
+msgid "Sat"
+msgstr "Za"
+
+#: lib/class-shortcodes.php:109 lib/gutenberg/class-blocks.php:133
+msgid "Sun"
+msgstr "Zo"
+
+#: lib/class-shortcodes.php:259
+msgid "Video Transcript"
+msgstr "Video transcriptie"
+
+#: lib/class-shortcodes.php:282
+msgid "Video for playback"
+msgstr "Video voor afspelen"
+
+#: lib/class-template.php:72
+msgid "Header Notification bar"
+msgstr "Header notificatie bar"
+
+#: lib/class-template.php:79
+msgid "Header top bar"
+msgstr "Header top bar"
+
+#: lib/class-template.php:87
+msgid "Pre footer"
+msgstr "Pre footer"
+
+#: lib/class-template.php:141 lib/class-template.php:142
+#: lib/class-template.php:143 lib/class-template.php:1117
+msgid "Search"
+msgstr "Zoeken"
+
+#: lib/class-template.php:260
+msgid "Opens in a new window"
+msgstr "Opent in nieuw venster"
+
+#: lib/class-template.php:262
+msgid "Article categories shown."
+msgstr "Artikel categorieën getoond."
+
+#: lib/class-template.php:263
+msgid "Article categories hidden."
+msgstr "Artikel categorieën verborgen."
+
+#: lib/class-template.php:674
+msgid "Search results"
+msgstr "Zoekresultaten"
+
+#: lib/class-template.php:678
+#, php-format
+msgid "Overview: %s"
+msgstr "Overzicht: %s"
+
+#: lib/class-template.php:681 lib/class-template.php:733
+#: lib/customizer/class-layout.php:241
+msgid "Read more"
+msgstr "Lees meer"
+
+#: lib/class-template.php:737
+msgid "Read blog"
+msgstr "Lees blog"
+
+#: lib/class-template.php:741 lib/woocommerce/class-woopep.php:779
+msgid "View product"
+msgstr "Bekijk product"
+
+#: lib/class-template.php:816
+msgid "Webshop by PEP"
+msgstr "Webshop door PEP"
+
+#: lib/class-template.php:818
+msgid "Website by PEP"
+msgstr "Website door PEP"
+
+#: lib/class-template.php:1007 lib/class-template.php:1025
+msgid "Show date"
+msgstr "Toon datum"
+
+#: lib/class-template.php:1009 lib/class-template.php:1017
+#: lib/class-template.php:1026 lib/class-template.php:1032
+#: lib/customizer/class-layout.php:104 lib/woocommerce/class-woopep.php:347
+#: lib/woocommerce/class-woopep.php:371 lib/woocommerce/class-woopep.php:610
+msgid "Yes"
+msgstr "Ja"
+
+#: lib/class-template.php:1010 lib/class-template.php:1018
+#: lib/class-template.php:1027 lib/class-template.php:1033
+#: lib/customizer/class-layout.php:103 lib/woocommerce/class-woopep.php:346
+#: lib/woocommerce/class-woopep.php:370 lib/woocommerce/class-woopep.php:611
+msgid "No"
+msgstr "Nee"
+
+#: lib/class-template.php:1011 lib/class-template.php:1028
+msgid "Show date on archives and single posts"
+msgstr "Toon datum op archieven en berichten"
+
+#: lib/class-template.php:1015 lib/class-template.php:1031
+msgid "Show author"
+msgstr "Toon auteur"
+
+#: lib/class-template.php:1019 lib/class-template.php:1034
+msgid "Show author on single posts"
+msgstr "Toon auteur op enkel bericht"
+
+#: lib/class-template.php:1084
+msgid "Delete file"
+msgstr "Verwijderen"
+
+#: lib/class-template.php:1084
+msgid "Delete File:"
+msgstr "Verwijderen:"
+
+#: lib/class-template.php:1105
+msgid "Back to home"
+msgstr "Naar de homepage"
+
+#: lib/class-theme.php:163
+msgid "Sign up now"
+msgstr "Nu inschrijven"
+
+#: lib/class-theme.php:169
+msgid "Please leave your review"
+msgstr "Laat een beoordeling achter"
+
+#: lib/class-theme.php:174
+msgid "Other events"
+msgstr "Overige evenementen"
+
+#: lib/class-theme.php:303
+#, php-format
+msgid "Read more %s"
+msgstr "Lees meer %s"
+
+#: lib/class-theme.php:303
+#, php-format
+msgid "about %s"
+msgstr "over %s"
+
+#: lib/class-theme.php:438
+msgid "Vraag of onderwerp"
+msgstr "Vraag of onderwerp"
+
+#: lib/class-theme.php:440
+msgid "All categories"
+msgstr "Alle onderwerpen"
+
+#: lib/class-theme.php:441
+msgid "Select your category"
+msgstr "Selecteer je onderwerp"
+
+#: lib/class-theme.php:449
+msgid "Ga op zoek"
+msgstr "Ga op zoek"
+
+#: lib/class-theme.php:463
+msgid "Search knowledgebase"
+msgstr "Zoek in de vraagbank"
+
+#: lib/class-woooutput.php:120 lib/woocommerce/class-woosetup.php:266
+msgid "Shipping"
+msgstr "Verzending"
+
+#: lib/class-woooutput.php:121 lib/woocommerce/class-woosetup.php:267
+msgid "Create account"
+msgstr "Account maken"
+
+#: lib/class-woooutput.php:122 lib/woocommerce/class-woosetup.php:268
+msgid "Payment methods"
+msgstr "Betaalmethoden"
+
+#: lib/customizer/class-colors.php:22
+msgid "Notification Bar Background Color"
+msgstr "Notificatie bar achtergrond kleur"
+
+#: lib/customizer/class-colors.php:27
+msgid "Notification Bar Bottom Border Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:32
+msgid "Notification Bar Text Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:37
+msgid "Notification Bar Link Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:42
+msgid "Notification Bar Link Hover Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:49
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:54
+msgid "Top Bar Bottom Border Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:59
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:64
+msgid "Top Bar Link Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:69
+msgid "Top Bar Link Hover Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:76
+msgid "Header Background Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:81
+msgid "Header Bottom Border Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:86
+msgid "Breadcrumbs Text Color"
+msgstr "Kruimelpad tekstkleur"
+
+#: lib/customizer/class-colors.php:91
+msgid "Breadcrumbs Text Active Color"
+msgstr "Kruimelpad actieve tekstkleur"
+
+#: lib/customizer/class-colors.php:98
+msgid "Navigation Bar Background Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:99 lib/customizer/class-colors.php:105
+msgid "Header bar style"
+msgstr ""
+
+#: lib/customizer/class-colors.php:104
+msgid "Navigation Bar Top Border Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:110
+msgid "Main Menu Link Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:115
+msgid "Main Menu Link Hover Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:120
+msgid "Sub Menu Link Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:125
+msgid "Sub Menu Link Hover Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:134
+msgid "Sub Menu Link Background Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:139
+msgid "Sub Menu Link Hover Background"
+msgstr ""
+
+#: lib/customizer/class-colors.php:150
+msgid "Body Background Color"
+msgstr "Body achtergrond kleur"
+
+#: lib/customizer/class-colors.php:155
+msgid "H1 Page Title Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:160
+msgid "H2 Subtitle Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:165
+msgid "H3 Subtitle Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:170
+msgid "H4 Subtitle Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:175
+msgid "Text Color"
+msgstr "Tekstkleur"
+
+#: lib/customizer/class-colors.php:185
+msgid "Link Hover Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:190
+msgid "Text selection color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:195
+msgid "Text selection background color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:202
+msgid "Input Box Background Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:207
+msgid "Input Box Background Focus Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:212
+msgid "Input Box Border Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:217
+msgid "Input Box Border Hover Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:222
+msgid "Input Box Text Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:227
+msgid "Input Box Text Focus Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:232
+msgid "Label Color"
+msgstr "Label kleur"
+
+#: lib/customizer/class-colors.php:237
+msgid "Label Required (*) Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:242
+msgid "Field Description Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:247
+msgid "Button Background Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:252
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:257
+msgid "Button Text Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:262
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:267
+msgid "Placeholder color"
+msgstr "Placeholder kleur"
+
+#: lib/customizer/class-colors.php:274
+msgid "Footer Background Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:279
+msgid "Footer Heading (H3 / H4) Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:284
+msgid "Footer Text Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:289
+msgid "Footer Link Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:294
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:299
+msgid "Footer Divider Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:304
+msgid "Copyright Background Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:309
+msgid "Copyright Text Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:314
+msgid "Copyright Link Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:319
+msgid "Copyright Link Hover Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:326
+msgid "Gutenberg Color #1"
+msgstr ""
+
+#: lib/customizer/class-colors.php:333
+msgid "Gutenberg Color #2"
+msgstr ""
+
+#: lib/customizer/class-colors.php:340
+msgid "Gutenberg Color #3"
+msgstr ""
+
+#: lib/customizer/class-colors.php:347
+msgid "Gutenberg Color #4"
+msgstr ""
+
+#: lib/customizer/class-colors.php:354
+msgid "Gutenberg Color #5"
+msgstr ""
+
+#: lib/customizer/class-colors.php:361
+msgid "Gutenberg Color #6"
+msgstr ""
+
+#: lib/customizer/class-colors.php:368
+msgid "Gutenberg Color #7"
+msgstr ""
+
+#: lib/customizer/class-colors.php:375
+msgid "Gutenberg Color #8"
+msgstr ""
+
+#: lib/customizer/class-colors.php:382
+msgid "Gutenberg Color #9"
+msgstr ""
+
+#: lib/customizer/class-colors.php:389
+msgid "Gutenberg Color #10"
+msgstr ""
+
+#: lib/customizer/class-colors.php:400
+msgid "WooCommerce Price Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:405
+msgid "WooCommerce Old Price Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:411
+msgid "WooCommerce Button Background"
+msgstr ""
+
+#: lib/customizer/class-colors.php:416
+msgid "WooCommerce Button Background Hover"
+msgstr ""
+
+#: lib/customizer/class-colors.php:421
+msgid "WooCommerce Button Text Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:426
+msgid "WooCommerce Button Text Hover Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:431
+msgid "WooCommerce Add to Cart Button Background"
+msgstr ""
+
+#: lib/customizer/class-colors.php:436
+msgid "WooCommerce Add to Cart Button Background Hover"
+msgstr ""
+
+#: lib/customizer/class-colors.php:441
+msgid "WooCommerce Add to Cart Button Text Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:446
+msgid "WooCommerce Add to Cart Button Text Hover Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:451
+msgid "Cart Icon Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:457
+msgid "Cart Icon Hover Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:462
+msgid "Cart Icon Counter Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:467
+msgid "Cart Icon Counter Hover Color"
+msgstr ""
+
+#: lib/customizer/class-colors.php:479
+msgid "Colors"
+msgstr "Kleuren"
+
+#: lib/customizer/class-colors.php:480
+msgid "Define theme colors"
+msgstr ""
+
+#: lib/customizer/class-colors.php:485
+msgid "Notification Bar"
+msgstr ""
+
+#: lib/customizer/class-colors.php:488
+msgid "Define notification colors"
+msgstr ""
+
+#: lib/customizer/class-colors.php:493
+msgid "Top bar"
+msgstr "Top bar"
+
+#: lib/customizer/class-colors.php:496
+msgid "Define topbar colors"
+msgstr ""
+
+#: lib/customizer/class-colors.php:500 lib/customizer/class-layout.php:69
+msgid "Header"
+msgstr "Header"
+
+#: lib/customizer/class-colors.php:503
+msgid "Define header colors"
+msgstr ""
+
+#: lib/customizer/class-colors.php:507
+msgid "Main Menu"
+msgstr "Hoofdnavigatie"
+
+#: lib/customizer/class-colors.php:510
+msgid "Define Main Menu colors"
+msgstr ""
+
+#: lib/customizer/class-colors.php:514
+msgid "Body"
+msgstr "Body"
+
+#: lib/customizer/class-colors.php:517
+msgid "Define Body colors"
+msgstr ""
+
+#: lib/customizer/class-colors.php:521 lib/customizer/class-fonts.php:258
+msgid "Forms"
+msgstr "Formulieren"
+
+#: lib/customizer/class-colors.php:524
+msgid "Define Form colors"
+msgstr ""
+
+#: lib/customizer/class-colors.php:528 lib/customizer/class-fonts.php:273
+#: lib/customizer/class-layout.php:115
+msgid "Footer"
+msgstr "Footer"
+
+#: lib/customizer/class-colors.php:531
+msgid "Define Footer colors"
+msgstr ""
+
+#: lib/customizer/class-colors.php:535
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: lib/customizer/class-colors.php:538
+msgid "Define colors shown in Gutenberg Editor for background and texts."
+msgstr ""
+
+#: lib/customizer/class-colors.php:546
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: lib/customizer/class-colors.php:549
+msgid "Define WooCommerce colors"
+msgstr ""
+
+#: lib/customizer/class-company.php:16 lib/customizer/class-company.php:17
+#: lib/customizer/class-company.php:18 lib/customizer/class-company.php:19
+#: lib/customizer/class-company.php:20 lib/customizer/class-company.php:21
+#: lib/customizer/class-company.php:22 lib/customizer/class-company.php:23
+msgid "Food Establishment"
+msgstr "Eetgelegenheid"
+
+#: lib/customizer/class-company.php:16
+msgid "Bakery"
+msgstr "Bakkerij"
+
+#: lib/customizer/class-company.php:17
+msgid "Bar or Pub"
+msgstr "Bar of Pub"
+
+#: lib/customizer/class-company.php:18
+msgid "Brewery"
+msgstr "Brouwerij"
+
+#: lib/customizer/class-company.php:19
+msgid "Cafe or Coffee Shop"
+msgstr "Café of koffie-tentje"
+
+#: lib/customizer/class-company.php:20
+msgid "FastFoodRestaurant"
+msgstr "Fastfood restaurant"
+
+#: lib/customizer/class-company.php:21
+msgid "Ice Cream Shop"
+msgstr "IJswinkel"
+
+#: lib/customizer/class-company.php:22
+msgid "Restaurant"
+msgstr "Restaurant"
+
+#: lib/customizer/class-company.php:23
+msgid "Winery"
+msgstr ""
+
+#: lib/customizer/class-company.php:27
+msgid "Local Business (default)"
+msgstr "Lokaal bedrijf (standaard)"
+
+#: lib/customizer/class-company.php:28
+msgid "ChildCare"
+msgstr ""
+
+#: lib/customizer/class-company.php:29
+msgid "Corporation"
+msgstr ""
+
+#: lib/customizer/class-company.php:30
+msgid "Dentist"
+msgstr "Tandarts"
+
+#: lib/customizer/class-company.php:31
+msgid "Educational Organization"
+msgstr "Onderwijs"
+
+#: lib/customizer/class-company.php:32
+msgid "Government Organization"
+msgstr ""
+
+#: lib/customizer/class-company.php:33 lib/customizer/class-company.php:34
+#: lib/customizer/class-company.php:35 lib/customizer/class-company.php:36
+#: lib/customizer/class-company.php:37 lib/customizer/class-company.php:38
+msgid "Health and Beauty Business"
+msgstr ""
+
+#: lib/customizer/class-company.php:34
+msgid "Beauty Salon"
+msgstr ""
+
+#: lib/customizer/class-company.php:35
+msgid "Day Spa"
+msgstr ""
+
+#: lib/customizer/class-company.php:36
+msgid "Hair Salon"
+msgstr "Kapsalon"
+
+#: lib/customizer/class-company.php:37
+msgid "Health Club"
+msgstr ""
+
+#: lib/customizer/class-company.php:38
+msgid "Nail Salon"
+msgstr "Nagelsalon"
+
+#: lib/customizer/class-company.php:39
+msgid "Medical Organization"
+msgstr "Medische organisatie"
+
+#: lib/customizer/class-company.php:40
+msgid "Non-governmental Organisation"
+msgstr ""
+
+#: lib/customizer/class-company.php:41
+msgid "Performance Group"
+msgstr ""
+
+#: lib/customizer/class-company.php:42
+msgid "Project"
+msgstr "Project"
+
+#: lib/customizer/class-company.php:43
+msgid "Real Estate Agent"
+msgstr ""
+
+#: lib/customizer/class-company.php:44
+msgid "Sport Organization"
+msgstr "Sport organisatie"
+
+#: lib/customizer/class-company.php:45
+msgid "Sports Activity Location"
+msgstr "Sport activiteiten locatie"
+
+#: lib/customizer/class-company.php:46 lib/customizer/class-company.php:47
+#: lib/customizer/class-company.php:48 lib/customizer/class-company.php:49
+#: lib/customizer/class-company.php:50 lib/customizer/class-company.php:51
+#: lib/customizer/class-company.php:52 lib/customizer/class-company.php:53
+#: lib/customizer/class-company.php:54 lib/customizer/class-company.php:55
+#: lib/customizer/class-company.php:56 lib/customizer/class-company.php:57
+#: lib/customizer/class-company.php:58 lib/customizer/class-company.php:59
+#: lib/customizer/class-company.php:60
+msgid "Store"
+msgstr "Winkel"
+
+#: lib/customizer/class-company.php:47
+msgid "Bike Store"
+msgstr "Fietsenwinkel"
+
+#: lib/customizer/class-company.php:48
+msgid "Book Store"
+msgstr "Boekwinkel"
+
+#: lib/customizer/class-company.php:49
+msgid "Clothing Store"
+msgstr "Kledingwinkel"
+
+#: lib/customizer/class-company.php:50
+msgid "Computer Store"
+msgstr "Computerwinkel"
+
+#: lib/customizer/class-company.php:51
+msgid "Electronics Store"
+msgstr "Elektronica winkel"
+
+#: lib/customizer/class-company.php:52
+msgid "Florist"
+msgstr "Bloemist"
+
+#: lib/customizer/class-company.php:53
+msgid "Garden Store"
+msgstr "Tuincentrum"
+
+#: lib/customizer/class-company.php:54
+msgid "Hobby Shop"
+msgstr "Hobbywinkel"
+
+#: lib/customizer/class-company.php:55
+msgid "Jewelry Store"
+msgstr "Juwelier"
+
+#: lib/customizer/class-company.php:56
+msgid "Mobile Phone Store"
+msgstr "Mobiele telefoon winkel"
+
+#: lib/customizer/class-company.php:57
+msgid "Office Equipment Store"
+msgstr ""
+
+#: lib/customizer/class-company.php:58
+msgid "Pet Store"
+msgstr "Dierenwinkel"
+
+#: lib/customizer/class-company.php:59
+msgid "Shoe Store"
+msgstr "Schoenenwinkel"
+
+#: lib/customizer/class-company.php:60
+msgid "Toy Store"
+msgstr "Speelgoedwinkel"
+
+#: lib/customizer/class-company.php:61
+msgid "Travel Agency"
+msgstr "Reisbureau"
+
+#: lib/customizer/class-company.php:69 lib/customizer/class-layout.php:26
+msgid "General"
+msgstr "Algemeen"
+
+#: lib/customizer/class-company.php:74
+msgid "Company type"
+msgstr "Bedrijfstype"
+
+#: lib/customizer/class-company.php:80
+msgid "Company name"
+msgstr "Bedrijfsnaam"
+
+#: lib/customizer/class-company.php:85
+msgid "Subline"
+msgstr "Sublijn"
+
+#: lib/customizer/class-company.php:87
+msgid "Extra information, for example: no visiting address"
+msgstr "Extra info, bijvoorbeeld: geen bezoekadres"
+
+#: lib/customizer/class-company.php:91
+msgid "Email address"
+msgstr "E-mailadres"
+
+#: lib/customizer/class-company.php:96
+msgid "Address"
+msgstr "Adres"
+
+#: lib/customizer/class-company.php:101
+msgid "Postal code"
+msgstr "Postcode"
+
+#: lib/customizer/class-company.php:106
+msgid "City"
+msgstr "Plaats"
+
+#: lib/customizer/class-company.php:111
+msgid "Country"
+msgstr "Land (EN)"
+
+#: lib/customizer/class-company.php:116
+msgid "Phone"
+msgstr "Telefoon"
+
+#: lib/customizer/class-company.php:121
+msgid "Fax"
+msgstr "Fax"
+
+#: lib/customizer/class-company.php:128
+msgid "Social media"
+msgstr "Social media"
+
+#: lib/customizer/class-company.php:133
+msgid "Social media settings"
+msgstr "Social media instellingen"
+
+#: lib/customizer/class-company.php:134
+msgid "Use Yoast SEO settings to enter social media settings"
+msgstr "Gebruik Yoast SEO voor social media instellingen"
+
+#: lib/customizer/class-company.php:141 views/gutenberg/contact.php:66
+#: views/shortcodes/contact-without-address.php:16
+#: views/shortcodes/contact.php:52
+msgid "Openinghours"
+msgstr "Openingstijden"
+
+#: lib/customizer/class-company.php:146 lib/customizer/class-company.php:156
+#: lib/customizer/class-company.php:166 lib/customizer/class-company.php:176
+#: lib/customizer/class-company.php:186 lib/customizer/class-company.php:196
+#: lib/customizer/class-company.php:206
+msgid "Open"
+msgstr "Open"
+
+#: lib/customizer/class-company.php:151 lib/customizer/class-company.php:161
+#: lib/customizer/class-company.php:171 lib/customizer/class-company.php:181
+#: lib/customizer/class-company.php:191 lib/customizer/class-company.php:201
+#: lib/customizer/class-company.php:211
+msgid "Closed"
+msgstr "Gesloten"
+
+#: lib/customizer/class-company.php:219
+msgid "Other info"
+msgstr "Overige info"
+
+#: lib/customizer/class-company.php:224
+msgid "Chamber of Commerce number"
+msgstr "KvK nummer"
+
+#: lib/customizer/class-company.php:229
+msgid "VAT number"
+msgstr "BTW nummer"
+
+#: lib/customizer/class-company.php:234
+msgid "Price range"
+msgstr "Prijsklasse"
+
+#: lib/customizer/class-company.php:238
+msgid "Low"
+msgstr "Laag"
+
+#: lib/customizer/class-company.php:239
+msgid "Medium"
+msgstr "Medium"
+
+#: lib/customizer/class-company.php:240
+msgid "High"
+msgstr "Hoog"
+
+#: lib/customizer/class-company.php:244
+msgid "Short description"
+msgstr "Korte omschrijving"
+
+#: lib/customizer/class-company.php:252
+msgid "Google Analytics / GTM"
+msgstr ""
+
+#: lib/customizer/class-company.php:253
+msgid "Use UA-code or GTM-code only. Not both"
+msgstr ""
+
+#: lib/customizer/class-company.php:257
+msgid "UA-code"
+msgstr ""
+
+#: lib/customizer/class-company.php:261
+msgid "Enter Google Analytics like: UA-XXXXXXXX-X"
+msgstr ""
+
+#: lib/customizer/class-company.php:264
+msgid "GTM-code"
+msgstr ""
+
+#: lib/customizer/class-company.php:268
+msgid "Enter Google Tag Manager code like: GTM-XXXX"
+msgstr ""
+
+#: lib/customizer/class-company.php:277
+msgid "Restaurant info"
+msgstr "Restaurant info"
+
+#: lib/customizer/class-company.php:282
+msgid "URL to Menu (restaurants only)"
+msgstr "URL naar menu-pagina"
+
+#: lib/customizer/class-company.php:287
+msgid "Accepts reservations"
+msgstr "Accepteer reserveringen"
+
+#: lib/customizer/class-company.php:302
+msgid "Company info"
+msgstr "Bedrijfsinfo"
+
+#: lib/customizer/class-fonts.php:37
+msgid "Typography"
+msgstr "Typografie"
+
+#: lib/customizer/class-fonts.php:38
+msgid "Define theme fonts"
+msgstr "Bepaal theme lettertypen"
+
+#: lib/customizer/class-fonts.php:154 lib/customizer/class-fonts.php:284
+msgid "Font Family"
+msgstr "Lettertype"
+
+#: lib/customizer/class-fonts.php:163 lib/customizer/class-fonts.php:302
+msgid "Font Weight"
+msgstr "Letterdikte"
+
+#: lib/customizer/class-fonts.php:203
+msgid "Heading H1"
+msgstr "Kop H1"
+
+#: lib/customizer/class-fonts.php:208
+msgid "Heading H2"
+msgstr "Kop H2"
+
+#: lib/customizer/class-fonts.php:213
+msgid "Heading H3"
+msgstr "Kop H3"
+
+#: lib/customizer/class-fonts.php:218
+msgid "Heading H4"
+msgstr "Kop H4"
+
+#: lib/customizer/class-fonts.php:223
+msgid "Content"
+msgstr "Content"
+
+#: lib/customizer/class-fonts.php:228
+msgid "Notification bar"
+msgstr ""
+
+#: lib/customizer/class-fonts.php:233
+msgid "Topbar"
+msgstr "Topbar"
+
+#: lib/customizer/class-fonts.php:238
+msgid "Primary Navigation"
+msgstr "Hoofdnavigatie"
+
+#: lib/customizer/class-fonts.php:243
+msgid "Primary Navigation Sub Menu"
+msgstr "Hoofdnavigatie submenu"
+
+#: lib/customizer/class-fonts.php:248
+msgid "Quotes"
+msgstr "Citaten"
+
+#: lib/customizer/class-fonts.php:253
+msgid "Buttons"
+msgstr "Knoppen"
+
+#: lib/customizer/class-fonts.php:263
+msgid "Footer widgets"
+msgstr "Footer widgets"
+
+#: lib/customizer/class-fonts.php:268
+msgid "Footer widget title"
+msgstr ""
+
+#: lib/customizer/class-fonts.php:291
+msgid "Font Size"
+msgstr "Lettergrootte"
+
+#: lib/customizer/class-fonts.php:313
+msgid "Text Transform"
+msgstr "Tekst-transformatie"
+
+#: lib/customizer/class-fonts.php:320 lib/customizer/class-fonts.php:354
+msgid "none"
+msgstr "geen"
+
+#: lib/customizer/class-fonts.php:325
+msgid "Letter Spacing (px)"
+msgstr "Letterafstand (px)"
+
+#: lib/customizer/class-fonts.php:336
+msgid "Line Height (em)"
+msgstr "Lijnhoogte (em)"
+
+#: lib/customizer/class-fonts.php:347
+msgid "Text align"
+msgstr "Tekst uitlijning"
+
+#: lib/customizer/class-layout.php:19
+msgid "Hide thumbnail"
+msgstr "Verberg thumbnail"
+
+#: lib/customizer/class-layout.php:29 lib/customizer/class-layout.php:49
+#: lib/customizer/class-layout.php:72 lib/customizer/class-layout.php:118
+#: lib/customizer/class-layout.php:168
+msgid "Container Max-Width (px)"
+msgstr "Container maximale breedte (px)"
+
+#: lib/customizer/class-layout.php:36 lib/customizer/class-layout.php:79
+#: lib/customizer/class-layout.php:125
+msgid "Container Padding (px)"
+msgstr "Container padding (px)"
+
+#: lib/customizer/class-layout.php:46
+msgid "Notification area"
+msgstr ""
+
+#: lib/customizer/class-layout.php:55
+msgid "Container Padding (Left / Right) (em)"
+msgstr "Container padding (links / rechts) (em)"
+
+#: lib/customizer/class-layout.php:61
+msgid "Container Padding (Top / Bottom) (em)"
+msgstr "Container padding (boven / onder) (em)"
+
+#: lib/customizer/class-layout.php:73 lib/customizer/class-layout.php:119
+msgid "Leave empty to make full width"
+msgstr "Laat leeg om volledige breedte te maken"
+
+#: lib/customizer/class-layout.php:85
+msgid "Primary navigation position"
+msgstr "Positie hoofdmenu"
+
+#: lib/customizer/class-layout.php:89
+msgid "Next to logo"
+msgstr "Naast logo"
+
+#: lib/customizer/class-layout.php:90
+msgid "Below logo"
+msgstr "Onder logo"
+
+#: lib/customizer/class-layout.php:99
+msgid "Show search icon / form"
+msgstr ""
+
+#: lib/customizer/class-layout.php:131
+msgid "Footer text align"
+msgstr "Footer uitlijning"
+
+#: lib/customizer/class-layout.php:135
+msgid "Left"
+msgstr "Links"
+
+#: lib/customizer/class-layout.php:136
+msgid "Center"
+msgstr "Gecentreerd"
+
+#: lib/customizer/class-layout.php:137
+msgid "Right"
+msgstr "Rechts"
+
+#: lib/customizer/class-layout.php:146
+msgid "Number of footer widgets"
+msgstr ""
+
+#: lib/customizer/class-layout.php:151
+msgid "Footer widgets top padding"
+msgstr ""
+
+#: lib/customizer/class-layout.php:157
+msgid "Footer widgets bottom padding"
+msgstr ""
+
+#: lib/customizer/class-layout.php:165
+msgid "Containers"
+msgstr "Containers"
+
+#: lib/customizer/class-layout.php:174
+msgid "Container Padding Left / Right(px)"
+msgstr ""
+
+#: lib/customizer/class-layout.php:180
+msgid "Container Padding Top (px)"
+msgstr ""
+
+#: lib/customizer/class-layout.php:186
+msgid "Container Padding Bottom (px)"
+msgstr ""
+
+#: lib/customizer/class-layout.php:192
+msgid "Container Margin Top / Bottom (px)"
+msgstr ""
+
+#: lib/customizer/class-layout.php:201
+msgid "Post archives"
+msgstr ""
+
+#: lib/customizer/class-layout.php:204
+msgid "Description position"
+msgstr "Positie omschrijving"
+
+#: lib/customizer/class-layout.php:208
+msgid "Inside archive header"
+msgstr ""
+
+#: lib/customizer/class-layout.php:209
+msgid "Below archive header"
+msgstr ""
+
+#: lib/customizer/class-layout.php:213
+msgid "Archive header width"
+msgstr ""
+
+#: lib/customizer/class-layout.php:217
+msgid "Align full"
+msgstr ""
+
+#: lib/customizer/class-layout.php:218
+msgid "Align wide"
+msgstr ""
+
+#: lib/customizer/class-layout.php:219
+msgid "Normal (inside content box)"
+msgstr ""
+
+#: lib/customizer/class-layout.php:223
+msgid "Thumbnail size"
+msgstr "Thumbnail grootte"
+
+#: lib/customizer/class-layout.php:229
+msgid "Show Excerpt"
+msgstr "Toon samenvatting"
+
+#: lib/customizer/class-layout.php:233 lib/woocommerce/class-woopep.php:450
+#: lib/woocommerce/class-woopep.php:472 lib/woocommerce/class-woopep.php:494
+#: lib/woocommerce/class-woopep.php:515 lib/woocommerce/class-woopep.php:582
+msgid "Hide"
+msgstr "Verberg"
+
+#: lib/customizer/class-layout.php:234 lib/woocommerce/class-woopep.php:449
+#: lib/woocommerce/class-woopep.php:471 lib/woocommerce/class-woopep.php:493
+#: lib/woocommerce/class-woopep.php:581
+msgid "Show"
+msgstr "Toon"
+
+#: lib/customizer/class-layout.php:238
+msgid "Read more text"
+msgstr "Lees meer tekst"
+
+#: lib/customizer/class-layout.php:239
+msgid "Leave empty to hide CTA link"
+msgstr "Laat leeg om de CTA link te verbergen"
+
+#: lib/customizer/class-layout.php:251
+msgid "Layout"
+msgstr "Layout"
+
+#: lib/customizer/class-layout.php:306
+msgid "Max logo width"
+msgstr "Max logo breedte"
+
+#: lib/gutenberg/class-blocks.php:244 views/gutenberg/clients.php:61
+msgid "Previous"
+msgstr "Vorige"
+
+#: lib/gutenberg/class-blocks.php:245 views/gutenberg/clients.php:62
+msgid "Next"
+msgstr "Volgende"
+
+#: lib/woocommerce/class-woopep.php:66
+msgid "Before Woo archive"
+msgstr ""
+
+#: lib/woocommerce/class-woopep.php:149
+msgid "From"
+msgstr "Vanaf"
+
+#: lib/woocommerce/class-woopep.php:168
+msgid "Your price:"
+msgstr "Uw prijs:"
+
+#: lib/woocommerce/class-woopep.php:169
+msgid "Retail price:"
+msgstr "Consumenten adviesprijs:"
+
+#: lib/woocommerce/class-woopep.php:192
+msgid "FREE"
+msgstr "GRATIS"
+
+#: lib/woocommerce/class-woopep.php:243
+msgid "Checkout columns"
+msgstr "Kolommen afrekenpagina"
+
+#: lib/woocommerce/class-woopep.php:244
+msgid "Show checkout page in one or two columns."
+msgstr ""
+
+#: lib/woocommerce/class-woopep.php:250
+msgid "1 column"
+msgstr "1 kolom"
+
+#: lib/woocommerce/class-woopep.php:251
+msgid "2 columns"
+msgstr "2 kolommen"
+
+#: lib/woocommerce/class-woopep.php:267
+msgid "Box elements"
+msgstr ""
+
+#: lib/woocommerce/class-woopep.php:268
+msgid "Add boxes around elements on checkout page."
+msgstr ""
+
+#: lib/woocommerce/class-woopep.php:274
+msgid "Default style"
+msgstr "Standaard stijl"
+
+#: lib/woocommerce/class-woopep.php:275
+msgid "Boxed style"
+msgstr "Boxed stijl"
+
+#: lib/woocommerce/class-woopep.php:291
+msgid "Order note"
+msgstr "Bestelnotitie"
+
+#: lib/woocommerce/class-woopep.php:297
+msgid "Hidden"
+msgstr "Verborgen"
+
+#: lib/woocommerce/class-woopep.php:298
+msgid "Optional"
+msgstr "Optioneel"
+
+#: lib/woocommerce/class-woopep.php:314 lib/woocommerce/class-woopep.php:322
+msgid "Show excerpts"
+msgstr "Toon samenvattingen"
+
+#: lib/woocommerce/class-woopep.php:315
+msgid "Show excerpts on archive pages."
+msgstr "Toon samenvattingen op archief pagina's."
+
+#: lib/woocommerce/class-woopep.php:321
+msgid "Hide excerpts"
+msgstr "Verberg samenvattingen"
+
+#: lib/woocommerce/class-woopep.php:339
+msgid "Show price in button"
+msgstr ""
+
+#: lib/woocommerce/class-woopep.php:340
+msgid "Display price in cart-button."
+msgstr ""
+
+#: lib/woocommerce/class-woopep.php:363
+msgid "Show price below name"
+msgstr ""
+
+#: lib/woocommerce/class-woopep.php:364
+msgid "Display product price"
+msgstr ""
+
+#: lib/woocommerce/class-woopep.php:387
+msgid "Button class"
+msgstr "Knop class"
+
+#: lib/woocommerce/class-woopep.php:388
+msgid "Add class to body to design buttons on shop page."
+msgstr ""
+
+#: lib/woocommerce/class-woopep.php:394
+msgid "Default"
+msgstr "Standaard"
+
+#: lib/woocommerce/class-woopep.php:395
+msgid "Alternate"
+msgstr "Alternatief"
+
+#: lib/woocommerce/class-woopep.php:396
+msgid "Ghost button"
+msgstr ""
+
+#: lib/woocommerce/class-woopep.php:412 lib/woocommerce/class-woopep.php:419
+msgid "Show images"
+msgstr "Toon afbeeldingen"
+
+#: lib/woocommerce/class-woopep.php:413
+msgid "Show product images on archive page."
+msgstr "Toon productafbeeldingen op archief-pagina's."
+
+#: lib/woocommerce/class-woopep.php:420
+msgid "Hide images"
+msgstr "Verberg afbeeldingen"
+
+#: lib/woocommerce/class-woopep.php:428
+msgid "Product detail page"
+msgstr "Product detailpagina"
+
+#: lib/woocommerce/class-woopep.php:442
+msgid "Show SKU"
+msgstr "Toon SKU"
+
+#: lib/woocommerce/class-woopep.php:443
+msgid "Show SKU below add to cart button."
+msgstr "Toon SKU onder winkelwagen-knop."
+
+#: lib/woocommerce/class-woopep.php:464
+msgid "Show categories & tags"
+msgstr "Toon categorieën en tags"
+
+#: lib/woocommerce/class-woopep.php:465
+msgid "Show categories & tags below add to cart button."
+msgstr "Toon categorieën en tags onder winkelwagen-knop."
+
+#: lib/woocommerce/class-woopep.php:486
+msgid "Show related products"
+msgstr "Toon gerelateerde producten"
+
+#: lib/woocommerce/class-woopep.php:487
+msgid "Show related products on single product page."
+msgstr "Toon gerelateerde producten op product detailpagina."
+
+#: lib/woocommerce/class-woopep.php:508
+msgid "Show additional info"
+msgstr "Toon overige info"
+
+#: lib/woocommerce/class-woopep.php:509
+msgid "Choose where to show (or hide) additional product info."
+msgstr ""
+
+#: lib/woocommerce/class-woopep.php:516
+msgid "Below product description"
+msgstr "Onder product omschrijving"
+
+#: lib/woocommerce/class-woopep.php:517
+msgid "In summary tabs"
+msgstr "In samenvatting tabs"
+
+#: lib/woocommerce/class-woopep.php:532
+msgid "About tab title"
+msgstr "\"Over ons\" tab titel"
+
+#: lib/woocommerce/class-woopep.php:533
+msgid "Title of about tab."
+msgstr "Titel van \"Over ons\" tab."
+
+#: lib/woocommerce/class-woopep.php:549
+msgid "About tab content"
+msgstr "\"Over ons\" tab inhoud"
+
+#: lib/woocommerce/class-woopep.php:550
+msgid "Leave empty to hide about tab."
+msgstr "Laat leeg om de \"over ons\" tab te verbergen."
+
+#: lib/woocommerce/class-woopep.php:560
+msgid "Cart page"
+msgstr "Winkelwagen pagina"
+
+#: lib/woocommerce/class-woopep.php:574
+msgid "Show thumbnails"
+msgstr "Toon thumbnails"
+
+#: lib/woocommerce/class-woopep.php:575
+msgid "Show product thumbnails in cart."
+msgstr "Toon product thumnails in winkelwagen."
+
+#: lib/woocommerce/class-woopep.php:589
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: lib/woocommerce/class-woopep.php:603
+msgid "Unset all CSS-files"
+msgstr ""
+
+#: lib/woocommerce/class-woopep.php:604
+msgid "Do you want to use default CSS-styling or not?"
+msgstr ""
+
+#: lib/woocommerce/class-woopep.php:657
+msgid "Current page: Cart"
+msgstr "Huidige pagina: Winkelwagen"
+
+#: lib/woocommerce/class-woopep.php:660
+msgid "Current page: Checkout"
+msgstr "Huidige pagina: Afrekenen"
+
+#: lib/woocommerce/class-woopep.php:663
+msgid "Current page: Confirmation"
+msgstr "Huidige pagina: Bedankt"
+
+#: lib/woocommerce/class-woopep.php:701
+msgid "Summary"
+msgstr "Samenvatting"
+
+#: lib/woocommerce/class-woopep.php:734
+msgid "item in cart"
+msgid_plural "items in cart"
+msgstr[0] "artikel in winkelwagen"
+msgstr[1] "artikelen in winkelwagen"
+
+#: lib/woocommerce/class-woopep.php:735
+msgid "Shopping cart"
+msgstr "Winkelwagen"
+
+#: lib/woocommerce/class-woopep.php:783 lib/woocommerce/class-woopep.php:785
+#: views/card.php:31
+msgid "about"
+msgstr "over"
+
+#: lib/woocommerce/class-woosetup.php:104
+msgid "Previous Page"
+msgstr "Vorige pagina"
+
+#: lib/woocommerce/class-woosetup.php:105
+msgid "Next Page"
+msgstr "Volgende pagina"
+
+#: search.php:23
+msgid "Search Results for:"
+msgstr "Zoekresultaten voor:"
+
+#: views/activity/activity-info.php:5
+msgid "Tags: "
+msgstr "Labels: "
+
+#: views/gutenberg/contact.php:54 views/shortcodes/contact.php:41
+#, php-format
+msgid "KvK: %s"
+msgstr "KVK: %s"
+
+#: views/gutenberg/contact.php:60
+#: views/shortcodes/contact-without-address.php:30
+#: views/shortcodes/contact.php:47
+msgid "Vat id:"
+msgstr "BTW:"
+
+#: views/gutenberg/contact.php:98
+#: views/shortcodes/contact-without-address.php:40
+#: views/shortcodes/contact.php:81
+msgid "Make a reservation"
+msgstr "Reserveer nu"
+
+#: views/gutenberg/contact.php:103
+#: views/shortcodes/contact-without-address.php:35
+#: views/shortcodes/contact.php:74
+msgid "Check out"
+msgstr "Bekijk"
+
+#: views/gutenberg/contact.php:103
+#: views/shortcodes/contact-without-address.php:35
+#: views/shortcodes/contact.php:74
+msgid "our menu"
+msgstr "ons menu"
+
+#: views/gutenberg/slickslider.php:7
+msgid "Use your arrows keys for more"
+msgstr "Gebruik je pijltjestoetsen voor meer"
+
+#: views/gutenberg/wootags.php:60
+msgid "Next slide"
+msgstr "Volgende slide"
+
+#: views/gutenberg/wootags.php:61
+msgid "Previous slide"
+msgstr "Vorige slide"
+
+#: views/shortcodes/social-icons.php:4 views/shortcodes/social-icons.php:8
+#: views/shortcodes/social-icons.php:12 views/shortcodes/social-icons.php:16
+#: views/shortcodes/social-icons.php:20 views/shortcodes/social-icons.php:24
+#, php-format
+msgid "%s on %s"
+msgstr "%s op %s"
+
+#: views/shortcodes/social-icons.php:4
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: views/shortcodes/social-icons.php:8
+msgid "Instagram"
+msgstr "Instagram"
+
+#: views/shortcodes/social-icons.php:12
+msgid "Facebook"
+msgstr "Facebook"
+
+#: views/shortcodes/social-icons.php:16
+msgid "Twitter"
+msgstr "Twitter"
+
+#: views/shortcodes/social-icons.php:20
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: views/shortcodes/social-icons.php:24
+msgid "YouTube"
+msgstr "YouTube"
+
+#: views/woocommerce/steps.php:6
+msgid "Cart"
+msgstr "Winkelwagen"
+
+#: views/woocommerce/steps.php:7
+msgid "Checkout"
+msgstr "Afrekenen"
+
+#: views/woocommerce/steps.php:8
+msgid "Confirmation"
+msgstr "Bedankt"
+
+#, php-format
+#~ msgid "Customer satisfaction %s out of 10"
+#~ msgstr "Klanttevredenheid %s uit 10"
+
+#~ msgctxt "post type general name"
+#~ msgid "Companies"
+#~ msgstr "Bedrijven"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Company"
+#~ msgstr "Bedrijf"
+
+#~ msgctxt "admin menu"
+#~ msgid "Companies"
+#~ msgstr "Bedrijven"
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Companies"
+#~ msgstr "Bedrijven"
+
+#~ msgctxt "book"
+#~ msgid "Add New"
+#~ msgstr "Nieuwe toevoegen"
+
+#~ msgid "Add New Company"
+#~ msgstr "Nieuw bedrijf toevoegen"
+
+#~ msgid "New Company"
+#~ msgstr "Nieuw bedrijf"
+
+#~ msgid "Edit Company"
+#~ msgstr "Bewerk bedrijf"
+
+#~ msgid "View Company"
+#~ msgstr "Bekijk bedrijf"
+
+#~ msgid "All Companies"
+#~ msgstr "Alle bedrijven"
+
+#~ msgid "Search Companies"
+#~ msgstr "Zoek bedrijven"
+
+#~ msgid "No companies found."
+#~ msgstr "Geen bedrijven gevonden."
+
+#~ msgid "No companies found in Trash."
+#~ msgstr "Geen bedrijven gevonden in prullenbak."
+
+#~ msgid "Company logo"
+#~ msgstr "Bedrijfslogo"
+
+#~ msgid "Set company logo"
+#~ msgstr "Selecteer logo"
+
+#~ msgid "Remove company logo"
+#~ msgstr "Verwijder logo"
+
+#~ msgid "Use company logo"
+#~ msgstr "Gebruik logo"
+
+#~ msgid "Make appointment"
+#~ msgstr "Afspraak maken"
+
+#~ msgid "Call me back"
+#~ msgstr "Bel me terug"
+
+#~ msgid "Euro"
+#~ msgstr "Euro"
+
+#~ msgid "Contact us"
+#~ msgstr "Direct contact"
+
+#~ msgid "More info"
+#~ msgstr "Meer info"
+
+#~ msgid "Your price: "
+#~ msgstr "Jouw prijs:"
+
+#~ msgid "We will contact you regarding the purchase of hardware"
+#~ msgstr "We nemen contact met je op betreffende opkoop van hardware"
+
+#~ msgid "We will contact you regarding computer recycling"
+#~ msgstr "We nemen contact met je op betreffende computer recycling"
+
+#~ msgid "We will contact you regarding company clear-out"
+#~ msgstr "We nemen contact met je op betreffende ontruiming"
+
+#~ msgid "Miscellaneous data destruction"
+#~ msgstr "Diverse datavernietiging"
+
+#~ msgid "purchase of hardware"
+#~ msgstr "opkoop hardware"
+
+#~ msgid "computer recycling"
+#~ msgstr "computerrecycling"
+
+#~ msgid "company clear-out"
+#~ msgstr "ontruiming"
+
+#~ msgid "Search by keyword"
+#~ msgstr "Zoek op trefwoord"
+
+#~ msgid "Search..."
+#~ msgstr "Zoek..."
+
+#~ msgid "Our clients rate"
+#~ msgstr "Onze klanten beoordelen"
+
+#~ msgid "with an average of"
+#~ msgstr "gemiddeld met een"
+
+#~ msgid "out of"
+#~ msgstr "uit"
+
+#~ msgid "based on"
+#~ msgstr "op basis van "
+
+#~ msgid "reviews"
+#~ msgstr "beoordelingen"
+
+#, php-format
+#~ msgid "Carousel image %s"
+#~ msgstr "Carousel afbeelding %s"
+
+#~ msgid "Set image"
+#~ msgstr "Kies afbeelding"
+
+#~ msgid "Remove image"
+#~ msgstr "Verwijder afbeelding"
+
+#~ msgid "Choose an image"
+#~ msgstr "Kies een afbeelding"
+
+#~ msgid "Use image"
+#~ msgstr "Gebruik afbeelding"
+
+#~ msgid "Helaas, je gegevens zijn niet correct"
+#~ msgstr "Helaas, je gegevens zijn niet correct"
+
+#~ msgid "Je wachtwoord is incorrect. Probeer het opnieuw."
+#~ msgstr "Je wachtwoord is incorrect. Probeer het opnieuw."
+
+#~ msgid "Je hebt geen geldig wachtwoord ingevuld. Probeer het opnieuw."
+#~ msgstr "Je hebt geen geldig wachtwoord ingevuld. Probeer het opnieuw."
+
+#~ msgid ""
+#~ "Je hebt geen geldige gebruikersnaam en wachtwoord ingevuld. Probeer het "
+#~ "opnieuw."
+#~ msgstr ""
+#~ "Je hebt geen geldige gebruikersnaam en wachtwoord ingevuld. Probeer het "
+#~ "opnieuw."
+
+#~ msgid ""
+#~ "Je hebt geen geldige gebruikersnaam en/of wachtwoord ingevuld. Probeer "
+#~ "het opnieuw."
+#~ msgstr ""
+#~ "Je hebt geen geldige gebruikersnaam en/of wachtwoord ingevuld. Probeer "
+#~ "het opnieuw."
+
+#, php-format
+#~ msgid "Wachtwoord vergeten? %s."
+#~ msgstr "Wachtwoord vergeten? %s."
+
+#~ msgid "Request a new password"
+#~ msgstr "Wachtwoord vergeten"
+
+#~ msgid "Articles"
+#~ msgstr "Artikelen"
+
+#~ msgid "Email Address or Username"
+#~ msgstr "E-mailadres of gebruikersnaam"
+
+#~ msgid "An email has been sent. Please check your inbox."
+#~ msgstr "Een e-mail is verzonden. Controleer a.u.b. je inbox."
+
+#~ msgid "Premium articles"
+#~ msgstr "Besloten artikelen"
+
+#~ msgid "Public articles"
+#~ msgstr "Publieke artikelen"
+
+#~ msgid "Use the search field or limit your search via the filters."
+#~ msgstr "Gebruik het zoekveld of beperk je zoekopdracht via de filters."
+
+#~ msgid "Filter articles on:"
+#~ msgstr "Filter artikelen op:"
+
+#~ msgid "Scroll effects"
+#~ msgstr "Scroll effecten"
+
+#~ msgid "Search in..."
+#~ msgstr "Zoek in..."
+
+#~ msgid "Entire website"
+#~ msgstr "Gehele website"
+
+#~ msgid "Total"
+#~ msgstr "Totaal"
+
+#~ msgid "Subtotal"
+#~ msgstr "Subtotaal"
+
+#~ msgid "Hi %s,"
+#~ msgstr "Hallo %s,"
+
+#~ msgid "Thanks!"
+#~ msgstr "Bedankt!"
+
+#~ msgid "%s quantity"
+#~ msgstr "%s aantal"
+
+#~ msgid "Quantity"
+#~ msgstr "Aantal"
+
+#~ msgctxt "Product quantity input tooltip"
+#~ msgid "Qty"
+#~ msgstr "Aantal"
+
+#~ msgid "Search product"
+#~ msgstr "Zoek product"
+
+#~ msgid "Choose class"
+#~ msgstr "Kies css-class"
+
+#~ msgid "Show previous client"
+#~ msgstr "Toon vorige opdrachtgever"
+
+#~ msgid "Show next client"
+#~ msgstr "Toon volgende opdrachtgever"
